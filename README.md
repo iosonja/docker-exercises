@@ -5,7 +5,7 @@ Exercise submissions for the course DevOps with Docker by University of Helsinki
 
 | Part | Exercises |
 | --- | --- |
-| 1 | 2/16 |
+| 1 | 4/16 |
 | 2 | 0/11 |
 | 3 | 0/8 |
-| __Total__ | __2/35__ |
+| __Total__ | __4/35__ |
