@@ -1,4 +1,4 @@
-#### Task
+#### Task 1.3
 Image `devopsdockeruh/simple-web-service:ubuntu` will start a container that outputs logs into a file. 
 Go inside the container and use `tail -f ./text.log` to follow the logs. 
 Submit the secret message and command(s) given as your answer.
